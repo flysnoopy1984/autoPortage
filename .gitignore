@@ -1,0 +1,21 @@
+HELP.md
+Readme.md
+cmd/
+chromeData/
+Test/
+OpenCV/
+
+
+
+
+
+### VS Code ###
+.vscode/
+
+### log ###
+logs/
+
+### other ###
+*.sql
+
+
